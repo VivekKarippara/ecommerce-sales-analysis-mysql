@@ -52,31 +52,31 @@ Before analysis, multiple data quality checks were performed:
 •	Order total consistency verification  
 
 ## 📊 Key Business Insights
-1️) Product Category Distribution  
+1) Product Category Distribution  
 •	Electronics products dominate the catalog.  
 •	Wearable Tech and Photography categories have comparatively fewer products.  
 
-2️) Top Customer Locations  
+2) Top Customer Locations  
 Top 3 cities with highest customer count:  
 •	Delhi  
 •	Chennai  
 •	Jaipur  
 This insight helps in targeted regional marketing campaigns.  
 
-3️) Customer Order Frequency Analysis  
+3) Customer Order Frequency Analysis  
 Most customers placed:  
 •	1 to 3 orders  
 •	Very few customers placed more than 5 orders  
 This indicates opportunities for customer retention and loyalty programs.  
 
-4️) Category Popularity Analysis  
+4) Category Popularity Analysis  
 Categories with highest unique customer reach:  
 1.	Electronics  
 2.	Wearable Tech  
 3.	Photography  
 Electronics showed the broadest customer appeal.  
 
-5️) Month-on-Month Sales Growth Analysis  
+5) Month-on-Month Sales Growth Analysis  
 Sales trends were analyzed using SQL Window Functions.  
 Key findings:  
 •	Strong sales spikes in:  
@@ -85,20 +85,20 @@ o	September 2023
 o	December 2023  
 •	Major decline observed in February 2024.  
 
-6️) Largest Sales Decline  
+6) Largest Sales Decline  
 •	February 2024 recorded the highest negative sales growth.  
 This may indicate:  
 •	Seasonal demand drop  
 •	Marketing inefficiency  
 •	Inventory shortages  
 
-7️) Average Order Value (AOV) Trends  
+7) Average Order Value (AOV) Trends  
 AOV analysis revealed:  
 •	Significant increase during festive/high-demand periods  
 •	Sharp drop in February 2024  
 Useful for pricing and promotional strategy planning.  
 
-8️) Fastest Moving Products  
+8) Fastest Moving Products  
 Top products based on turnover rate:  
 •	Digital SLR Camera  
 •	Bluetooth Headphones  
@@ -107,7 +107,7 @@ These products may require:
 •	Frequent restocking  
 •	Better inventory planning  
 
-9️) Low Customer Penetration Products  
+9) Low Customer Penetration Products  
 Products purchased by less than 40% of customers:  
 •	Smartphone 6"  
 •	Wireless Earbuds  
@@ -149,19 +149,10 @@ This project demonstrates practical usage of:
 •	Relational Database Concepts      
 •	Data Cleaning Techniques    
 
-## 📈 Learning Outcomes
-Through this project, I learned:  
-•	Real-world SQL data analysis  
-•	Business-oriented querying  
-•	Data cleaning and validation  
-•	KPI analysis for e-commerce businesses  
-•	Advanced SQL window functions  
-•	Translating raw data into actionable insights  
-
 ## 👨‍💻 Author
-Vivek
-Aspiring Data Analyst passionate about SQL, Data Analytics, and Business Intelligence.
-________________________________________
-⭐ If you found this project useful
-Please consider giving the repository a ⭐
+Vivek Karippara  
+Aspiring Data Analyst passionate about SQL, Data Analytics, and Business Intelligence.  
+________________________________________  
+⭐ If you found this project useful  
+Please consider giving the repository a ⭐  
 
