@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Company Sales Case Study – SQL Data Analysis Project
+# 🛒 E-Commerce Company Sales Performance  – SQL Data Analysis Project
 ## 📖 Project Overview
 This project is a complete MySQL-based E-Commerce Data Analysis Case Study focused on extracting actionable business insights from transactional data.  
 As a Data Analyst, the objective of this project was to analyze customer behavior, product performance, sales trends, and inventory patterns using SQL queries and business intelligence techniques.  
