@@ -7,11 +7,14 @@ The project simulates real-world business scenarios commonly faced in e-commerce
 ## 🎯 Business Objectives  
 The analysis focuses on the following business areas:  
 •	**Customer Insights**  
-Understand customer distribution, buying frequency, and acquisition trends.  
+Understand customer distribution, buying frequency, and acquisition trends. 
+
 •	**Product Analysis**  
 Identify high-performing and low-performing products/categories.  
+
 •	**Sales Optimization**  
 Analyze revenue trends, monthly growth, and average order value.  
+
 •	**Inventory Management**  
 Detect fast-moving products and potential inventory mismatches.  
 
