@@ -34,12 +34,12 @@ Column Name	Description
 **order_date** - Date of order  
 **customer_id** -	Customer placing the order  
 **total_amount** - Total order amount  
-4. Order Details  
-Column Name	Description  
-**order_id** - Order reference
-**product_id** - Product reference
-**quantity** - Quantity ordered
-**price_per_unit** - Unit price
+4. Order Details    
+Column Name	Description    
+**order_id** - Order reference  
+**product_id** - Product reference  
+**quantity** - Quantity ordered  
+**price_per_unit** - Unit price  
 
 ## 🧹 Data Cleaning & Validation
 Before analysis, multiple data quality checks were performed:  
