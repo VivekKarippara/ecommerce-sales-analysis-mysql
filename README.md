@@ -16,30 +16,30 @@ Analyze revenue trends, monthly growth, and average order value.
 Detect fast-moving products and potential inventory mismatches.  
 
 ## 🗂️ Dataset 
-The project uses four relational datasets:
-1. Customers
-Column Name	Description
-customer_id	Unique customer ID
-name	Customer name
-location	Customer city/location
-2. Products
-Column Name	Description
-product_id	Unique product ID
-name	Product name
-category	Product category
-price	Product price
-3. Orders
-Column Name	Description
-order_id	Unique order ID
-order_date	Date of order
-customer_id	Customer placing the order
-total_amount	Total order amount
-4. Order Details
-Column Name	Description
-order_id	Order reference
-product_id	Product reference
-quantity	Quantity ordered
-price_per_unit	Unit price
+The project uses four relational datasets:  
+1. Customers  
+Column Name	Description  
+customer_id -	Unique customer ID  
+name -	Customer name  
+location - Customer city/location    
+2. Products    
+Column Name	Description  
+product_id -	Unique product ID  
+name - Product name  
+category - Product category  
+price -	Product price  
+3. Orders    
+Column Name	Description    
+order_id - Unique order ID  
+order_date - Date of order  
+customer_id -	Customer placing the order  
+total_amount - Total order amount  
+4. Order Details  
+Column Name	Description  
+order_id - Order reference
+product_id - Product reference
+quantity - Quantity ordered
+price_per_unit - Unit price
 
 ## 🧹 Data Cleaning & Validation
 Before analysis, multiple data quality checks were performed:  
